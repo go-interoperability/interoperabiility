@@ -1,2 +1,2 @@
 # interoperabiility
-Meta repository to discuss interoperability and it's significance in computer science and Golang.
+Meta repository to discuss interoperability and its significance in computer science and Golang.
